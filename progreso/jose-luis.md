@@ -6,7 +6,7 @@ Actualizado: 2026-11-24 17:06 · app v1.0.9
 - Respuestas: 0 aciertos, 0 fallos (**0%** de acierto)
 - Dominio (última respuesta correcta): **0%**
 - Racha: 0 días seguidos · días de estudio: 0
-- Tests hechos: 37
+- Tests hechos: 38
 
 ## Acierto por ley
 
@@ -17,6 +17,7 @@ Actualizado: 2026-11-24 17:06 · app v1.0.9
 
 | Fecha | Test | Aciertos | Fallos | Nota |
 |---|---|---:|---:|---:|
+| 2026-11-24 17:06 | Importantes | 0/20 | 0 | 0.00 |
 | 2026-11-24 08:34 | Tablas · CE, L39 | 0/20 | 0 | 0.00 |
 | 2026-11-23 18:37 | Tablas · LCSP | 0/10 | 0 | 0.00 |
 | 2026-11-23 18:30 | Tablas · Igualdad | 0/10 | 0 | 0.00 |
@@ -46,4 +47,3 @@ Actualizado: 2026-11-24 17:06 · app v1.0.9
 | 2026-11-21 17:27 | Importantes | 0/20 | 0 | 0.00 |
 | 2026-11-20 23:13 | Tablas · L39 | 0/10 | 0 | 0.00 |
 | 2026-11-20 21:01 | Examen oficial | 0/10 | 0 | 0.00 |
-| 2026-11-20 17:10 | Tablas · Ofimática | 0/20 | 0 | 0.00 |
