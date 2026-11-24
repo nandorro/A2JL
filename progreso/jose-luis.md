@@ -1,12 +1,12 @@
 # Progreso de Jose Luis en A2JL
 
-Actualizado: 2026-11-23 16:50 · app v1.0.9
+Actualizado: 2026-11-24 08:34 · app v1.0.9
 
 - Preguntas vistas: **0** de 4176
 - Respuestas: 0 aciertos, 0 fallos (**0%** de acierto)
 - Dominio (última respuesta correcta): **0%**
 - Racha: 0 días seguidos · días de estudio: 0
-- Tests hechos: 27
+- Tests hechos: 36
 
 ## Acierto por ley
 
@@ -17,6 +17,15 @@ Actualizado: 2026-11-23 16:50 · app v1.0.9
 
 | Fecha | Test | Aciertos | Fallos | Nota |
 |---|---|---:|---:|---:|
+| 2026-11-23 18:37 | Tablas · LCSP | 0/10 | 0 | 0.00 |
+| 2026-11-23 18:30 | Tablas · Igualdad | 0/10 | 0 | 0.00 |
+| 2026-11-23 18:27 | Tablas · LOPD | 0/10 | 0 | 0.00 |
+| 2026-11-23 18:27 | Tablas · LOPD | 0/1 | 0 | 0.00 |
+| 2026-11-23 18:26 | Tablas · LOPD | 0/3 | 0 | 0.00 |
+| 2026-11-23 18:22 | Tablas · LOPD | 0/7 | 0 | 0.00 |
+| 2026-11-23 18:20 | Tablas · LOPD | 0/10 | 0 | 0.00 |
+| 2026-11-23 18:19 | Tablas · LOPD | 0/4 | 0 | 0.00 |
+| 2026-11-23 17:54 | RD 33/1986 Régimen Disciplinario | 0/2 | 0 | 0.00 |
 | 2026-11-23 16:50 | Tablas · LGP, LOPD | 0/10 | 0 | 0.00 |
 | 2026-11-23 16:48 | Tablas · LOPD | 0/10 | 0 | 0.00 |
 | 2026-11-23 16:40 | Tablas · LOPD, LJCA | 0/10 | 0 | 0.00 |
@@ -38,9 +47,3 @@ Actualizado: 2026-11-23 16:50 · app v1.0.9
 | 2026-11-20 21:01 | Examen oficial | 0/10 | 0 | 0.00 |
 | 2026-11-20 17:10 | Tablas · Ofimática | 0/20 | 0 | 0.00 |
 | 2026-11-20 16:48 | Tablas · L40 | 0/20 | 0 | 0.00 |
-| 2026-11-20 16:47 | Examen oficial | 0/10 | 0 | 0.00 |
-| 2026-11-20 16:36 | Tablas · Otras | 0/20 | 0 | 0.00 |
-| 2026-11-20 16:35 | Tablas · Ofimática | 0/20 | 0 | 0.00 |
-| 2026-11-20 15:39 | Constitución Española | 0/10 | 0 | 0.00 |
-| 2026-11-20 15:35 | Constitución Española | 0/10 | 0 | 0.00 |
-| 2026-11-20 15:20 | Constitución Española | 0/10 | 0 | 0.00 |
