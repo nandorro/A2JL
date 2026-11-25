@@ -1,6 +1,6 @@
 # Progreso de Nando en A2JL
 
-Actualizado: 2026-11-25 01:29 · app v1.0.10
+Actualizado: 2026-11-25 11:15 · app v1.0.9
 
 - Preguntas vistas: **1** de 4176
 - Respuestas: 1 aciertos, 0 fallos (**100%** de acierto)
