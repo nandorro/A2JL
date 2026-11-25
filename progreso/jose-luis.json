@@ -355,5 +355,55 @@
   }
  ],
  "dias": [],
- "nombre": "Jose Luis"
+ "nombre": "Jose Luis",
+ "pendiente": {
+  "titulo": "Tablas · CE, L39",
+  "ids": [
+   "c42ff048e6af",
+   "7c74fb06d029",
+   "81e9b9055a8c",
+   "5287db9e0811",
+   "2bd08fc88198",
+   "d36a02078f94",
+   "34c406a8a605",
+   "461bcc3aa425",
+   "1aec0a3bd4c2",
+   "dd0117de51a5",
+   "6a9e31861966",
+   "e215e9e9141d",
+   "bbbe52c57626",
+   "1179885a7556",
+   "bf0f25c01bc0",
+   "2f5e9b7e25f7",
+   "f84d0f4444b7",
+   "f392a3b53854",
+   "4be3d8204735"
+  ],
+  "resp": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "i": 6,
+  "examen": false,
+  "minutos": null,
+  "seg": 30,
+  "f": "2026-11-25 12:16"
+ }
 }
