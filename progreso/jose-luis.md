@@ -1,9 +1,9 @@
 # Progreso de Jose Luis en A2JL
 
-Actualizado: 2026-11-25 15:10 · app v1.0.10
+Actualizado: 2026-11-25 15:34 · app v1.0.10
 
-- Preguntas vistas: **5** de 4176
-- Respuestas: 2 aciertos, 3 fallos (**40%** de acierto)
+- Preguntas vistas: **11** de 4176
+- Respuestas: 3 aciertos, 8 fallos (**27%** de acierto)
 - Dominio (última respuesta correcta): **0%**
 - Racha: 1 días seguidos · días de estudio: 1
 - Tests hechos: 42
@@ -12,7 +12,8 @@ Actualizado: 2026-11-25 15:10 · app v1.0.10
 
 | Ley | Vistas | Acierto |
 |---|---:|---:|
-| Ley 39/2015 Procedimiento Administrativo Común | 1/398 | 100% |
+| Constitución Española | 4/386 | 0% |
+| Ley 39/2015 Procedimiento Administrativo Común | 3/398 | 67% |
 | Ley 40/2015 Régimen Jurídico del Sector Público | 2/157 | 50% |
 | Ley 47/2003 General Presupuestaria | 1/229 | 0% |
 | LO 3/2018 Protección de Datos | 1/51 | 0% |
