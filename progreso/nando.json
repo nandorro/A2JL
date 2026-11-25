@@ -22,37 +22,5 @@
   "2026-11-23",
   "2026-11-25"
  ],
- "nombre": "Nando",
- "pendiente": {
-  "titulo": "Test rápido",
-  "ids": [
-   "e3e7336765e9",
-   "17e59b73840f",
-   "f7f1eead8485",
-   "1d9205f7549c",
-   "002a5ee14853",
-   "cd18afd587ad",
-   "cdb7a57e720f",
-   "fa551de623a3",
-   "897aab644321",
-   "b9ccac6b1e98"
-  ],
-  "resp": [
-   0,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null
-  ],
-  "i": 0,
-  "examen": false,
-  "minutos": null,
-  "seg": 20,
-  "f": "2026-11-25 16:09"
- }
+ "nombre": "Nando"
 }
