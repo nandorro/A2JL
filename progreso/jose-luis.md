@@ -1,12 +1,12 @@
 # Progreso de Jose Luis en A2JL
 
-Actualizado: 2026-11-25 12:56 · app v1.0.10
+Actualizado: 2026-11-25 12:58 · app v1.0.10
 
-- Preguntas vistas: **3** de 4176
-- Respuestas: 2 aciertos, 1 fallos (**67%** de acierto)
+- Preguntas vistas: **5** de 4176
+- Respuestas: 2 aciertos, 3 fallos (**40%** de acierto)
 - Dominio (última respuesta correcta): **0%**
 - Racha: 1 días seguidos · días de estudio: 1
-- Tests hechos: 41
+- Tests hechos: 42
 
 ## Acierto por ley
 
@@ -14,11 +14,14 @@ Actualizado: 2026-11-25 12:56 · app v1.0.10
 |---|---:|---:|
 | Ley 39/2015 Procedimiento Administrativo Común | 1/398 | 100% |
 | Ley 40/2015 Régimen Jurídico del Sector Público | 2/157 | 50% |
+| Ley 47/2003 General Presupuestaria | 1/229 | 0% |
+| LO 3/2018 Protección de Datos | 1/51 | 0% |
 
 ## Últimos tests
 
 | Fecha | Test | Aciertos | Fallos | Nota |
 |---|---|---:|---:|---:|
+| 2026-11-25 12:58 | Tablas · LGP, LOTC, LOPD | 0/10 | 2 | 0.00 |
 | 2026-11-25 12:45 | Tablas · CE, L39 | 0/10 | 0 | 0.00 |
 | 2026-11-25 12:33 | Tablas · CE, L39 | 0/10 | 0 | 0.00 |
 | 2026-11-25 11:53 | Tablas · CE | 0/14 | 0 | 0.00 |
@@ -48,4 +51,3 @@ Actualizado: 2026-11-25 12:56 · app v1.0.10
 | 2026-11-21 20:48 | Test rápido | 0/10 | 0 | 0.00 |
 | 2026-11-21 18:01 | Ley 29/1998 Jurisdicción Contencioso-Adm. | 0/20 | 0 | 0.00 |
 | 2026-11-21 17:49 | Importantes | 0/10 | 0 | 0.00 |
-| 2026-11-21 17:48 | Test rápido | 0/10 | 0 | 0.00 |
