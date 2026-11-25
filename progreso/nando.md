@@ -1,11 +1,11 @@
 # Progreso de Nando en A2JL
 
-Actualizado: 2026-11-25 11:15 · app v1.0.9
+Actualizado: 2026-11-25 16:06 · app v1.0.10
 
-- Preguntas vistas: **1** de 4176
-- Respuestas: 1 aciertos, 0 fallos (**100%** de acierto)
+- Preguntas vistas: **2** de 4176
+- Respuestas: 2 aciertos, 0 fallos (**100%** de acierto)
 - Dominio (última respuesta correcta): **0%**
-- Racha: 0 días seguidos · días de estudio: 1
+- Racha: 1 días seguidos · días de estudio: 2
 - Tests hechos: 0
 
 ## Acierto por ley
@@ -13,6 +13,7 @@ Actualizado: 2026-11-25 11:15 · app v1.0.9
 | Ley | Vistas | Acierto |
 |---|---:|---:|
 | Constitución Española | 1/386 | 100% |
+| TREBEP (RDL 5/2015) | 1/286 | 100% |
 
 ## Últimos tests
 
