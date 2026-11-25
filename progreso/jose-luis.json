@@ -99,6 +99,31 @@
    1,
    0,
    1
+  ],
+  "c2d85f833e69": [
+   0,
+   1,
+   0
+  ],
+  "c481cdf782db": [
+   1,
+   0,
+   1
+  ],
+  "a014738ae26d": [
+   0,
+   1,
+   0
+  ],
+  "ccd5e7d01d00": [
+   0,
+   1,
+   0
+  ],
+  "303bf2f5c812": [
+   1,
+   0,
+   1
   ]
  },
  "fav": [],
@@ -498,62 +523,19 @@
    "ko": 0,
    "nota": 0.0,
    "seg": 11
+  },
+  {
+   "f": "2026-11-25 15:57",
+   "t": "Psicotécnicos · Cálculo",
+   "n": 5,
+   "ok": 2,
+   "ko": 3,
+   "nota": 2.0,
+   "seg": 11
   }
  ],
  "dias": [
   "2026-11-25"
  ],
- "nombre": "Jose Luis",
- "pendiente": {
-  "titulo": "Constitución Española",
-  "ids": [
-   "1503a6110452",
-   "cf3abc3bd698",
-   "34ddcca9e400",
-   "0d5b8637da33",
-   "2d23f97445ca",
-   "e1ccc6a92957",
-   "b5b946855785",
-   "8a52fb34350a",
-   "800bcd73f10f",
-   "65e269557340",
-   "fb45fea6ea26",
-   "b6385d659afc",
-   "af582d145c46",
-   "be91901f30bb",
-   "7ca062d072b5",
-   "64affc9d964a",
-   "cad6ad6266a4",
-   "9310965a0a9c",
-   "f392a3b53854",
-   "144086ab3c95"
-  ],
-  "resp": [
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null
-  ],
-  "i": 0,
-  "examen": true,
-  "minutos": null,
-  "seg": 4,
-  "f": "2026-11-25 15:56"
- }
+ "nombre": "Jose Luis"
 }
