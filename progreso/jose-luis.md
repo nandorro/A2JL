@@ -1,12 +1,12 @@
 # Progreso de Jose Luis en A2JL
 
-Actualizado: 2026-11-25 11:52 · app v1.0.10
+Actualizado: 2026-11-25 11:53 · app v1.0.10
 
 - Preguntas vistas: **0** de 4176
 - Respuestas: 0 aciertos, 0 fallos (**0%** de acierto)
 - Dominio (última respuesta correcta): **0%**
 - Racha: 0 días seguidos · días de estudio: 0
-- Tests hechos: 38
+- Tests hechos: 39
 
 ## Acierto por ley
 
@@ -17,6 +17,7 @@ Actualizado: 2026-11-25 11:52 · app v1.0.10
 
 | Fecha | Test | Aciertos | Fallos | Nota |
 |---|---|---:|---:|---:|
+| 2026-11-25 11:53 | Tablas · CE | 0/14 | 0 | 0.00 |
 | 2026-11-24 17:06 | Importantes | 0/20 | 0 | 0.00 |
 | 2026-11-24 08:34 | Tablas · CE, L39 | 0/20 | 0 | 0.00 |
 | 2026-11-23 18:37 | Tablas · LCSP | 0/10 | 0 | 0.00 |
@@ -46,4 +47,3 @@ Actualizado: 2026-11-25 11:52 · app v1.0.10
 | 2026-11-21 17:48 | Test rápido | 0/10 | 0 | 0.00 |
 | 2026-11-21 17:27 | Importantes | 0/20 | 0 | 0.00 |
 | 2026-11-20 23:13 | Tablas · L39 | 0/10 | 0 | 0.00 |
-| 2026-11-20 21:01 | Examen oficial | 0/10 | 0 | 0.00 |
