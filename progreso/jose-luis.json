@@ -503,5 +503,43 @@
  "dias": [
   "2026-11-25"
  ],
- "nombre": "Jose Luis"
+ "nombre": "Jose Luis",
+ "pendiente": {
+  "titulo": "Repaso de falladas",
+  "ids": [
+   "8683b4f0a43a",
+   "13d5305ace6f",
+   "eaf94ce3769b",
+   "5b7664614482",
+   "5aa4384259d2",
+   "9e66ae5db44e",
+   "894a6f8505f0",
+   "1c7764ba8459",
+   "eec088683d23",
+   "3eeb6213a701",
+   "c8601a82f0f8",
+   "f0bf411590c1",
+   "4204242fb9f3"
+  ],
+  "resp": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "i": 0,
+  "examen": true,
+  "minutos": null,
+  "seg": 5,
+  "f": "2026-11-25 15:56"
+ }
 }
