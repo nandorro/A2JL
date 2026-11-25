@@ -1,19 +1,19 @@
 # Progreso de Jose Luis en A2JL
 
-Actualizado: 2026-11-25 16:02 · app v1.0.11
+Actualizado: 2026-11-25 16:04 · app v1.0.11
 
-- Preguntas vistas: **29** de 4176
-- Respuestas: 13 aciertos, 17 fallos (**43%** de acierto)
+- Preguntas vistas: **39** de 4176
+- Respuestas: 14 aciertos, 26 fallos (**35%** de acierto)
 - Dominio (última respuesta correcta): **0%**
 - Racha: 1 días seguidos · días de estudio: 1
-- Tests hechos: 46
+- Tests hechos: 47
 
 ## Acierto por ley
 
 | Ley | Vistas | Acierto |
 |---|---:|---:|
-| Constitución Española | 10/386 | 27% |
-| Ley 39/2015 Procedimiento Administrativo Común | 6/398 | 50% |
+| Constitución Española | 12/386 | 23% |
+| Ley 39/2015 Procedimiento Administrativo Común | 14/398 | 29% |
 | Ley 40/2015 Régimen Jurídico del Sector Público | 2/157 | 50% |
 | Ley 47/2003 General Presupuestaria | 1/229 | 0% |
 | LO 3/2018 Protección de Datos | 1/51 | 0% |
@@ -23,6 +23,7 @@ Actualizado: 2026-11-25 16:02 · app v1.0.11
 
 | Fecha | Test | Aciertos | Fallos | Nota |
 |---|---|---:|---:|---:|
+| 2026-11-25 16:04 | Tablas · CE, L39 | 1/10 | 9 | 0.00 |
 | 2026-11-25 15:59 | Psicotécnicos · Verbales | 4/5 | 0 | 8.00 |
 | 2026-11-25 15:57 | Psicotécnicos · Cálculo | 2/5 | 3 | 2.00 |
 | 2026-11-25 15:54 | Exámenes oficiales INAP | 0/10 | 0 | 0.00 |
@@ -52,4 +53,3 @@ Actualizado: 2026-11-25 16:02 · app v1.0.11
 | 2026-11-22 19:21 | Tablas · CE | 0/20 | 0 | 0.00 |
 | 2026-11-22 12:56 | Tablas · Psicotécnicos | 0/10 | 0 | 0.00 |
 | 2026-11-22 12:54 | Tablas · Convenio | 0/20 | 0 | 0.00 |
-| 2026-11-21 20:57 | Constitución Española | 0/10 | 0 | 0.00 |
