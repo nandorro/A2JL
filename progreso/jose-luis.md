@@ -1,6 +1,6 @@
 # Progreso de Jose Luis en A2JL
 
-Actualizado: 2026-11-25 15:34 · app v1.0.10
+Actualizado: 2026-11-25 15:47 · app v1.0.11
 
 - Preguntas vistas: **11** de 4176
 - Respuestas: 3 aciertos, 8 fallos (**27%** de acierto)
