@@ -650,5 +650,37 @@
   "2026-11-25",
   "2026-11-26"
  ],
- "nombre": "Jose Luis"
+ "nombre": "Jose Luis",
+ "pendiente": {
+  "titulo": "Test rápido",
+  "ids": [
+   "b32f85fd4fd3",
+   "6bd155c901fe",
+   "8b4a3461e82a",
+   "aa2d208ef4d2",
+   "5975cf968869",
+   "476e13b160b7",
+   "43b90e638f8a",
+   "f0bf411590c1",
+   "65055d9a5d8e",
+   "5630c977a69b"
+  ],
+  "resp": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "i": 0,
+  "examen": true,
+  "minutos": null,
+  "seg": 4,
+  "f": "2026-11-26 11:42"
+ }
 }
