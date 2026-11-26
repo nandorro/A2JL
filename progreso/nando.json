@@ -1,58 +1,15 @@
 {
  "stats": {
-  "2717a2515e0e": [
+  "30a5d8d0eaef": [
    1,
    0,
    1
-  ],
-  "f26019af061c": [
-   1,
-   0,
-   1
-  ],
-  "e3e7336765e9": [
-   0,
-   1,
-   0
   ]
  },
  "fav": [],
  "historial": [],
  "dias": [
-  "2026-11-23",
-  "2026-11-25"
+  "2026-11-20"
  ],
- "nombre": "Nando",
- "pendiente": {
-  "titulo": "Test rápido",
-  "ids": [
-   "b7cfc4ab8bce",
-   "8f138e1bd0f0",
-   "91494d838885",
-   "9e173b9adc06",
-   "89af29b1fc7a",
-   "6884c9b0a7d0",
-   "6e2b1ac40786",
-   "d89f0adf7d57",
-   "1f53a1f8b1b3",
-   "5541ef2026b2"
-  ],
-  "resp": [
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null
-  ],
-  "i": 0,
-  "examen": true,
-  "minutos": null,
-  "seg": 10,
-  "f": "2026-11-25 18:00"
- }
+ "nombre": "Nando"
 }
