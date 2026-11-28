@@ -1,11 +1,11 @@
 # Progreso de Jose Luis en A2JL
 
-Actualizado: 2026-11-27 18:08 · app v1.0.13
+Actualizado: 2026-11-28 19:32 · app v1.0.13
 
 - Preguntas vistas: **42** de 4176
 - Respuestas: 15 aciertos, 29 fallos (**34%** de acierto)
 - Dominio (última respuesta correcta): **0%**
-- Racha: 2 días seguidos · días de estudio: 2
+- Racha: 0 días seguidos · días de estudio: 2
 - Tests hechos: 48
 
 ## Acierto por ley
